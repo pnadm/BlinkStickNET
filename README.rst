@@ -1,6 +1,6 @@
 Hello,
 
-The code will be available soon.
+The code will be available tomorrow.
 
 Sincerely,
   \- The Administrator.  
