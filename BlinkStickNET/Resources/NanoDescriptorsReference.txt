@@ -1,0 +1,13 @@
+Vendor ID: 8352 | 0x20a0
+Product ID: 16869 | 0x41e5
+Release Number: 2.2
+Release Number BCD: 514
+Manufacturer: Agile Innovative Ltd
+Product Name: BlinkStick Nano
+Friendly Name: BlinkStick Nano
+Serial Number: BS040123-3.0
+               ||  |    | |- Software minor version
+               ||  |    |--- Software major version
+               ||  |-------- Denotes sequential number
+               ||----------- Denotes BlinkStick device
+               

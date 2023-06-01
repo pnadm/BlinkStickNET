@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlinkStickNET", "BlinkStickNET\BlinkStickNET.csproj", "{7AAEBEBE-E38D-47B1-A04C-A055DCEB0757}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blinky", "Blinky\Blinky.csproj", "{D7031D57-FC31-448C-AFA4-DC5959D72A7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7031D57-FC31-448C-AFA4-DC5959D72A7E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D7031D57-FC31-448C-AFA4-DC5959D72A7E}.Debug|x86.Build.0 = Debug|Any CPU
+		{D7031D57-FC31-448C-AFA4-DC5959D72A7E}.Release|x86.ActiveCfg = Release|Any CPU
+		{D7031D57-FC31-448C-AFA4-DC5959D72A7E}.Release|x86.Build.0 = Release|Any CPU
+		{7AAEBEBE-E38D-47B1-A04C-A055DCEB0757}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7AAEBEBE-E38D-47B1-A04C-A055DCEB0757}.Debug|x86.Build.0 = Debug|Any CPU
+	EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal

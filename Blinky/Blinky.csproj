@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <RootNamespace>Blinky</RootNamespace>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <OutputType>Exe</OutputType>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\BlinkStickNET\BlinkStickNET.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="HidSharp" Version="2.1.0" />
+      <PackageReference Include="LibUsbDotNet" Version="2.2.29" />
+    </ItemGroup>
+
+</Project>
