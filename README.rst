@@ -1,3 +1,12 @@
+Hello,
+
+The code will be available soon.
+
+Sincerely,
+  \- The Administrator.  
+
+___________________________
+
 .. image:: http://www.blinkstick.com/images/logos/blinkstick-dotnet.png
    :alt: BlinkStickDotNet
 
